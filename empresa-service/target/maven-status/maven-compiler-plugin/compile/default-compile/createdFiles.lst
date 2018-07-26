@@ -1,0 +1,10 @@
+com/sigoerp/empresaservice/controllers/EmpresaController.class
+com/sigoerp/empresaservice/repositories/ConfiguracionEmpresaRepository.class
+com/sigoerp/empresaservice/repositories/FuncionarioRepository.class
+com/sigoerp/empresaservice/controllers/ConfiguracionEmpresaController.class
+com/sigoerp/empresaservice/entities/EmpresaEntity.class
+com/sigoerp/empresaservice/entities/FuncionarioEntity.class
+com/sigoerp/empresaservice/controllers/FuncionarioController.class
+com/sigoerp/empresaservice/EmpresaServiceApplication.class
+com/sigoerp/empresaservice/repositories/EmpresaRepository.class
+com/sigoerp/empresaservice/entities/ConfiguracionEmpresaEntity.class

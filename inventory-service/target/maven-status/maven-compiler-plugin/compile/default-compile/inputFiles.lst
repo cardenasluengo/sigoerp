@@ -1,0 +1,4 @@
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/inventory-service/src/main/java/com/sivalabs/inventoryservice/entities/InventoryItem.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/inventory-service/src/main/java/com/sivalabs/inventoryservice/repositories/InventoryItemRepository.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/inventory-service/src/main/java/com/sivalabs/inventoryservice/web/controllers/InventoryController.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/inventory-service/src/main/java/com/sivalabs/inventoryservice/InventoryServiceApplication.java

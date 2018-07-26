@@ -1,0 +1,12 @@
+com/sivalabs/catalogservice/exceptions/ProductNotFoundException.class
+com/sivalabs/catalogservice/entities/Product.class
+com/sivalabs/catalogservice/utils/MyThreadLocalsHolder.class
+com/sivalabs/catalogservice/services/ProductService.class
+com/sivalabs/catalogservice/web/controllers/ProductController.class
+com/sivalabs/catalogservice/CatalogServiceApplication.class
+com/sivalabs/catalogservice/utils/ContextCopyHystrixConcurrencyStrategy$MyCallable.class
+com/sivalabs/catalogservice/repositories/ProductRepository.class
+com/sivalabs/catalogservice/services/InventoryServiceFeignClient.class
+com/sivalabs/catalogservice/services/InventoryServiceClient.class
+com/sivalabs/catalogservice/utils/ContextCopyHystrixConcurrencyStrategy.class
+com/sivalabs/catalogservice/web/models/ProductInventoryResponse.class

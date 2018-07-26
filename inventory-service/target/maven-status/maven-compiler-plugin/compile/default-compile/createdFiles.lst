@@ -1,0 +1,4 @@
+com/sivalabs/inventoryservice/entities/InventoryItem.class
+com/sivalabs/inventoryservice/web/controllers/InventoryController.class
+com/sivalabs/inventoryservice/InventoryServiceApplication.class
+com/sivalabs/inventoryservice/repositories/InventoryItemRepository.class

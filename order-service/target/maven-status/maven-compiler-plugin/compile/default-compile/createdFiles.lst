@@ -1,0 +1,5 @@
+com/sivalabs/orderservice/entities/OrderItem.class
+com/sivalabs/orderservice/repositories/OrderRepository.class
+com/sivalabs/orderservice/entities/Order.class
+com/sivalabs/orderservice/OrderServiceApplication.class
+com/sivalabs/orderservice/web/controllers/OrderController.class

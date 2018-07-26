@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sigoerp.empresaservice.EmpresaServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 91.554 s - in com.sigoerp.empresaservice.EmpresaServiceApplicationTests

@@ -1,0 +1,11 @@
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/catalog-service/src/main/java/com/sivalabs/catalogservice/entities/Product.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/catalog-service/src/main/java/com/sivalabs/catalogservice/utils/ContextCopyHystrixConcurrencyStrategy.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/catalog-service/src/main/java/com/sivalabs/catalogservice/utils/MyThreadLocalsHolder.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/catalog-service/src/main/java/com/sivalabs/catalogservice/CatalogServiceApplication.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/catalog-service/src/main/java/com/sivalabs/catalogservice/web/controllers/ProductController.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/catalog-service/src/main/java/com/sivalabs/catalogservice/exceptions/ProductNotFoundException.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/catalog-service/src/main/java/com/sivalabs/catalogservice/web/models/ProductInventoryResponse.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/catalog-service/src/main/java/com/sivalabs/catalogservice/services/ProductService.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/catalog-service/src/main/java/com/sivalabs/catalogservice/services/InventoryServiceClient.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/catalog-service/src/main/java/com/sivalabs/catalogservice/services/InventoryServiceFeignClient.java
+/Users/daniel/Documents/GitHub/spring-boot-microservices-series/catalog-service/src/main/java/com/sivalabs/catalogservice/repositories/ProductRepository.java
